@@ -1,5 +1,5 @@
 # 💫 About Me:
- - 👋 I am Full-Stack Mobile and Web App developer<br>- ⚡ I mainly focus on FinTech<br>- 👀 I am working on blockchain based remittance apps<br>- 🌱 I am currently learning machine learning and AI<br> - 📫 I am looking help with Data Science
+  - I am Full-Stack Mobile and Web App developer<br>- ⚡ I mainly focus on FinTech<br>- 👀 I am working on blockchain based remittance apps<br>- 🌱 I am currently learning machine learning and AI<br> - 📫 I am looking help with Data Science
 
 
 ## 🌐 Socials:
